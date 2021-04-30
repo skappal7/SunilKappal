@@ -6,7 +6,7 @@
 
 Hosted with ❤ by GitHub  
 
-A portfolio website that can be used to show your projects or other information. The site is live at [navendu.me](https://navendu-pottekkat.github.io/)
+A portfolio website that can be used to show your projects or other information. The site is live at [Sunil.me](https://skappal7.github.io/Sunil_Kappal_Portfolio/)
 
 If that does not convince you, here are some other reason that might make you build one:
 
