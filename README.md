@@ -1,8 +1,5 @@
 # Portfolio Website 
-[![HitCount](http://hits.dwyl.com/navendu-pottekkat/navendu-pottekkatgithubio.svg)](http://hits.dwyl.com/navendu-pottekkat/navendu-pottekkatgithubio)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/navendu-pottekkat/navendu-pottekkat.github.io/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Twitter](https://img.shields.io/twitter/follow/sudo_navendu.svg?style=social&label=@sudo_navendu)](https://twitter.com/sudo_navendu) 
+[![Twitter](https://img.shields.io/twitter/follow/sudo_navendu.svg?style=social&label=@skappal)](https://twitter.com/skappal) 
 
 Hosted with ❤ by GitHub  
 
